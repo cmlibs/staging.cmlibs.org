@@ -1,0 +1,1 @@
+import{r as t,o,m as a,w as r,G as n,e as s}from"./index-3a8865c5.js";const m={__name:"DocumentationIndexView",setup(c){return(_,u)=>{const e=t("router-view");return o(),a(n,null,{default:r(()=>[s(e)]),_:1})}}};export{m as default};
